@@ -1,4 +1,8 @@
 # 첫번째 버전
-print("hi")
+if(True){
+	print("hi")
+}
 # 두번째 버전
-print("nice")
+for i in range(3){
+	print("nice")
+}
